@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently improving my React and Frontend skills to increase accessibility semantics and expertise.
 - 🎸 I'm a bass player and I love music: metal, rock🎸, jazz🎺, bossa, classical, dubstep, etc 🎶🥁🎶
-- 🧡 I love my family (Vicky🦸‍, Emma & Roma🐶🐶) and spending time and playing with them, their smiles, they are unique, and fill me with so much energy🔋.
+- 🧡 I love my family (Vicky🦸‍, Emma & Roma🐶🐶) and spending time with them, their smiles are unique, and fill me up with so much energy🔋.
 - 👀 I'm also very curious and enjoy so much leaning new things every time I can.
 
 - 💞️ I’m looking to improve my knowledge and participate into new projects, ideally with international teams.
