@@ -27,7 +27,6 @@ This are some of the Skills I have been working with:
 <tr>
 <td>Java</td>
 <td>Springboot</td>
-<td>docker</td>
 </tr>
 </table>
 
@@ -54,4 +53,4 @@ This are some of the Skills I have been working with:
  </tr>
 </table>
 
-- 📧 You can reach to me via email at: seba.guzman13@gmail.com <br/> or send me a pm to my linkedin profile: https://www.linkedin.com/in/sebastian-javier-guzman/
+- 📧 You can reach out to me via email at: seba.guzman13@gmail.com <br/> or send me a pm to my linkedin profile: https://www.linkedin.com/in/sebastian-javier-guzman/
